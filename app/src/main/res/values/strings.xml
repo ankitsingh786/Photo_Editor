@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="directory_name">/PhotoEditorApp</string>
+    <string name="photo_preview_prefix">PhotoEditorApp_</string>
+    <string name="photo_result_prefix">PhotoEditorApp_result_</string>
+    <string name="photo_saved_toast_string">Photo Saved!</string>
+    <string name="exite_text">Click back again to exit</string>
+    <string name="toast_message">Sorry, Permissions not given!</string>
+    <string name="permissions_message">All permissions are not given!\nApp may not work properly, Do you want to try again?</string>
+    <string name="startapp_id">207291822</string>
+
+</resources>
